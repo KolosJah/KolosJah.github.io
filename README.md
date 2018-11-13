@@ -1,2 +1,0 @@
-# KolosJah.github.io
-KolosJah
