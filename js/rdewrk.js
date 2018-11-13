@@ -1,6 +1,5 @@
 "use strict";
 // CFDG library code - WebGL rendering backend version
-// https://codepen.io/ge1doot/pen/rdeWrK
 // last modified 11 April 2018
 const cfdg = function() {
 	let gl,
